@@ -12,7 +12,6 @@
 
 将Graal编译器移植到LoongArch平台。GraalVM是一种高性能JDK，旨在加速用 Java和其他JVM语言编写的应用程序的执行，同时还为JavaScript、Python和许多其他流行语言提供运行时。
 
-Mar提供源代码，用Java编写。
 
 ## 所属赛道
 
