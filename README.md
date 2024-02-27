@@ -32,6 +32,11 @@ Mar提供源代码，用Java编写。
 * 敖琪
   - Email  aoqi@loongson.cn
 
+## 工作内容
+
+ * 学习JVM(OpenJDK)和Graal编译器相关知识
+ * 完成Graal编译器在LoongArch上的适配工作，其功能与性能应对标x64或arm64平台
+
 ## 难度
 
 中等
@@ -39,11 +44,6 @@ Mar提供源代码，用Java编写。
 # License
 
 GPL V3.0.
-
-## 工作内容
-
- * 学习JVM(OpenJDK)和Graal编译器相关知识
- * 完成Graal编译器在LoongArch上的适配工作，其功能与性能应对标x64或arm64平台
 
 ## 参考资源
 
